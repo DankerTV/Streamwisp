@@ -6,7 +6,7 @@
 
 ## AI development disclosure
 
-Streamwisp has been developed with substantial assistance from AI tools, including code generation, debugging, interface design and documentation. Danker__TV directs the project and its feature decisions.
+Streamwisp has been developed with substantial assistance from AI tools, including code generation, debugging, interface design and documentation. I myself directs the project and its feature decisions. ChatGPT did not influence any ideas contained within.
 
 This is disclosed openly so you can make an informed choice about using or contributing to the project. AI assistance does not guarantee correctness, security or reliability. Features require testing, and the known limitations below apply. Bug reports, code reviews and constructive feedback are welcome.
 
