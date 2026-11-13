@@ -1,3 +1,4 @@
+<img width="1199" height="1312" alt="streamwisp-logo" src="https://github.com/user-attachments/assets/2c47c079-da87-47a6-918f-c9be65835b9a" />
 # Streamwisp
 
 ### Twitch broadcasting, watching and chat in Steam Gaming Mode
